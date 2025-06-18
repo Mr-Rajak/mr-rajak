@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-rajak" alt="mr-rajak" /></a> </p>
 
-- 🌱 I’m currently learning 
-<br>
-**Advanced Networking • Bash & Python Scripting • Web Application Penetration Testing • CHEv13 Modules • Real-World Offensive Security Labs via TryHackMe**
+- 🌱 I’m currently learning:
+**Networking • Penetration Testing • CHEv13 Modules • Real-World Offensive Security Labs via TryHackMe**
 
-- 💬 Ask me about 
-<br>
-**Web Application Hacking • TryHackMe Labs • Bash & Python for Scripting • Advanced Networking for Offensive Security • Starting in Ethical Hacking & Pentesting**
+- 💬 Ask me about: 
+**Web Application Hacking • TryHackMe Labs  • Networking for Offensive Security • Starting in Ethical Hacking & Pentesting**
 
 - ⚡ Fun fact **I find bugs faster than I find my Wi-Fi password.**
 
