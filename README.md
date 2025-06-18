@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-rajak" alt="mr-rajak" /></a> </p>
 
 - 🌱 I’m currently learning:
-**Networking • Penetration Testing • CHEv13 Modules • Real-World Offensive Security Labs via TryHackMe**
+**Networking • Penetration Testing • CHEv13 Modules • Offensive Security**
 
 - 💬 Ask me about: 
 **Web Application Hacking • TryHackMe Labs  • Networking for Offensive Security • Ethical Hacking & Pentesting**
