@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Rajak</h1>
+<h1 align="center">Aman Rajak</h1>
 <h3 align="center">Ethical Hacker • Penetration Tester • Offensive Security Enthusiast • Red Team Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rajak" /> </p>
