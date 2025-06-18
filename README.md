@@ -9,7 +9,7 @@
 **Networking • Penetration Testing • CHEv13 Modules • Real-World Offensive Security Labs via TryHackMe**
 
 - 💬 Ask me about: 
-**Web Application Hacking • TryHackMe Labs  • Networking for Offensive Security • Starting in Ethical Hacking & Pentesting**
+**Web Application Hacking • TryHackMe Labs  • Networking for Offensive Security • Ethical Hacking & Pentesting**
 
 - ⚡ Fun fact **I find bugs faster than I find my Wi-Fi password.**
 
